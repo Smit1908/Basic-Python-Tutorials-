@@ -46,4 +46,4 @@ The repo includes the following topics:
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Basic-Python-Tutorials.git
+   git clone https://github.com/Smit1908/Basic-Python-Tutorials.git
